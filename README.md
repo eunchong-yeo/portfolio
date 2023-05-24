@@ -21,6 +21,7 @@ Back-End
 - AWS
 - RESTful API
 - Serverless Platform
+
 Front-End
 - React
 - JavaScript
@@ -59,7 +60,7 @@ etc
 
 # AWS 프로젝트
 
-### CloudBEMS-FrontEnd (SmartBuilding , SmartFarm , 입찰 분석, 메뉴얼 & 교육 자료 웹 앱)
+## CloudBEMS
 
 > 개발기간 : 2020.03.09 ~ 현재 진행중
 > (주)나라컨트롤 > SW연구팀(여은총 연구원)
@@ -71,6 +72,8 @@ etc
  에너지 사용, 에너지 분석, 에너지 로직, 실시간 관리, 이력관리, 시스템 관리 기능 등으로 구성되어 있으며,
  Web 기반의 솔루션으로 인터넷이 가능한 장소 어디에서나 접속 가능합니다.
 ```
+
+### CloudBEMS-FrontEnd (SmartBuilding , SmartFarm , 입찰 분석, 메뉴얼 & 교육 자료 웹 앱)
 
 - Technical Lead
 
