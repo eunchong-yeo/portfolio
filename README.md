@@ -229,3 +229,15 @@ etc
 <img src="./images/collectVR/collect_VR3.jpeg" width="250">
 <img src="./images/collectVR/collect_VR4.jpeg" width="250">
 </div>
+
+# 학력 / 자격증
+
+### 최종 학력
+```sh
+  한림대학교(2013.03 ~ 2019.02)
+```
+
+### 자격증
+```sh
+  정보처리기사
+```
