@@ -25,9 +25,11 @@ Back-End
 Front-End
 - React
 - JavaScript
+
 Database
 - MySQL
 - DynamoDB
+
 etc
 - Git / GitHub
 
@@ -60,60 +62,9 @@ etc
 
 # AWS 프로젝트
 
-## CloudBEMS
+### CloudBEMS (SmartBuilding , SmartFarm , 입찰 분석, 메뉴얼 & 교육 자료 웹 앱)
 
-> 개발기간 : 2020.03.09 ~ 현재 진행중
-> (주)나라컨트롤 > SW연구팀(여은총 연구원)
-
-- Introduction
-
-```sh
- 'CloudBEMS'는 다양한 제어와 관리 솔루션의 연계를 고려한 통합 운영을 통하여 건물 에너지 절감효과를 극대화 할 수 있는 솔루션 입니다.
- 에너지 사용, 에너지 분석, 에너지 로직, 실시간 관리, 이력관리, 시스템 관리 기능 등으로 구성되어 있으며,
- Web 기반의 솔루션으로 인터넷이 가능한 장소 어디에서나 접속 가능합니다.
-```
-
-### CloudBEMS-FrontEnd (SmartBuilding , SmartFarm , 입찰 분석, 메뉴얼 & 교육 자료 웹 앱)
-
-- Technical Lead
-
-```sh
- AWS(IoT core, Kinesis, Lambda, DynamoDB, CloudWatch, S3, API GateWay, SageMaker, SNS, CloudFront, Route 53, Certificate Manager)
- React(javaScript)
- Security(Iot Core, Cognito, IAM, CloudWatch, CloudFront, Route 53, Certificate Manager)
- Dependency management(npm, cloudia, firebase, Service Worker)
- Redux pattern(Redux-observable,Redux Hook)
- CI/CD(Cloud9, Gitlab)
-```
-
-- Participation
-
-```sh
-  앱 스플래시,회원가입/로그인 개발
-  계정관리(요금제 해지,비밀번호찾기,아이디찾기,간편비밀번호찾기,로그아웃,회사추가,회사해지)개발
-  위하고앱 연동 개발
-  본인부인방지 모듈 제작(PIN,FACE ID,FIDO,NICE 인증)
-  보안툴 암호화 모듈 세팅 & 계약 인증서 개발 
-```
-
-<div>
-<img src="./images/nahago/nahago_image1.png" width="150">
-<img src="./images/nahago/nahago_image2.png" width="150">
-<img src="./images/nahago/nahago_image3.png" width="150">
-<img src="./images/nahago/nahago_image4.png" width="150">
-<img src="./images/nahago/nahago_image5.png" width="150">
-<img src="./images/nahago/nahago_image6.png" width="150">
-<img src="./images/nahago/nahago_image7.png" width="150">
-<img src="./images/nahago/nahago_image13.png" width="150">
-<img src="./images/nahago/nahago_image12.png" width="150">
-<img src="./images/nahago/nahago_image10.png" width="150">
-<img src="./images/nahago/nahago_image11.png" width="150">
-<img src="./images/nahago/nahago_image14.png" width="150">
-</div>
-
-### CloudBEMS-BackEnd (SmartBuilding , SmartFarm , 입찰 분석, 메뉴얼 & 교육 자료 웹 앱)
-
-> 개발기간 : 2020.03.09 ~ 현재 진행중
+> 개발기간 : 2020.03.09 ~ 2022.10.21
 > (주)나라컨트롤 > SW연구팀(여은총 연구원)
 
 - Introduction
@@ -137,6 +88,55 @@ etc
 - Participation
 
 ```sh
+  AWS 환경에서 Serverless Platform 서버 빌드 및 배포
+  AWS NoSQL에서 DynamoDB를 데이터베이스로 사용
+  AWS 상의 인프라 설계와 구축 담당
+  RESTful API를 이용하여 웹 서비스 개발
+  AWS와 Firebase를 적용하여 모바일팀과 SNS 서비스 개발
+```
+
+<div>
+<img src="./images/cloudBEMS/naraimage1.png" width="150">
+<img src="./images/cloudBEMS/naraimage2.png" width="150">
+<img src="./images/cloudBEMS/naraimage3.png" width="150">
+<img src="./images/cloudBEMS/naraimage4.png" width="150">
+<img src="./images/cloudBEMS/naraimage5.png" width="150">
+<img src="./images/cloudBEMS/naraimage6.png" width="150">
+<img src="./images/cloudBEMS/naraimage7.png" width="150">
+<img src="./images/cloudBEMS/naraimage8.png" width="150">
+<img src="./images/cloudBEMS/naraimage9.png" width="150">
+<img src="./images/cloudBEMS/naraimage10.png" width="150">
+<img src="./images/cloudBEMS/naraimage11.png" width="150">
+<img src="./images/cloudBEMS/naraimage12.png" width="150">
+<img src="./images/cloudBEMS/naraimage13.png" width="150">
+<img src="./images/cloudBEMS/naraimage14.png" width="150">
+<img src="./images/cloudBEMS/naraimage15.png" width="150">
+<img src="./images/cloudBEMS/naraimage16.png" width="150">
+<img src="./images/cloudBEMS/naraimage17.png" width="150">
+<img src="./images/cloudBEMS/naraimage18.png" width="150">
+<img src="./images/cloudBEMS/naraimage19.png" width="150">
+<img src="./images/cloudBEMS/naraimage20.png" width="150">
+<img src="./images/cloudBEMS/naraimage21.png" width="150">
+<img src="./images/cloudBEMS/naraimage22.png" width="150">
+</div>
+
+<!-- ### CloudBEMS-FrontEnd (SmartBuilding , SmartFarm , 입찰 분석, 메뉴얼 & 교육 자료 웹 앱)
+
+- Technical Lead
+
+```sh
+ AWS(IoT core, Kinesis, Lambda, DynamoDB, CloudWatch, S3, API GateWay, SageMaker, SNS, CloudFront, Route 53, Certificate Manager)
+ React(javaScript)
+ Security(Iot Core, Cognito, IAM, CloudWatch, CloudFront, Route 53, Certificate Manager)
+ Dependency management(npm, cloudia, firebase, Service Worker)
+ Redux pattern(Redux-observable,Redux Hook)
+ CI/CD(Cloud9, Gitlab)
+```
+
+- Participation
+
+```sh
+  Restful API를 이용하여 
   앱 스플래시,회원가입/로그인 개발
   계정관리(요금제 해지,비밀번호찾기,아이디찾기,간편비밀번호찾기,로그아웃,회사추가,회사해지)개발
   위하고앱 연동 개발
@@ -157,8 +157,7 @@ etc
 <img src="./images/nahago/nahago_image10.png" width="150">
 <img src="./images/nahago/nahago_image11.png" width="150">
 <img src="./images/nahago/nahago_image14.png" width="150">
-</div>
-
+</div> -->
 
 # C# 프로젝트
 ### MegaNT_SMS(MegaNT SMS Service)
@@ -225,7 +224,7 @@ etc
 - Introduction
 
 ```sh
-'VR 화재 체험 플랫폼은' (주)제튼 회사에서 배웠던 기술들을 활용하여 졸업 프로젝트로 가상세계에서의 화재상황을 발생시켜
+'VR 화재 체험 플랫폼은 Unity 기술들을 활용하여 졸업 프로젝트로 가상세계에서의 화재상황을 발생시켜
 화재시 대피하는 요령을 VR을 통해 체험하는 플랫폼을 만들었습니다
 ```
 
