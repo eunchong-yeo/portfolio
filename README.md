@@ -25,8 +25,9 @@ Front-End
 - JavaScript
 
 Database
-- MySQL
 - DynamoDB
+- MySQL
+- MsSQL
 
 etc
 - Git / GitHub
@@ -77,8 +78,8 @@ etc
 - Technical Lead
 
 ```sh
- AWS(IoT core, Kinesis, Lambda, DynamoDB, CloudWatch, S3, API GateWay, SageMaker, SNS, CloudFront, Route 53, Certificate Manager)
- Security(Iot Core, IAM, CloudWatch)
+ AWS(IoT core, Kinesis, Lambda, DynamoDB, CloudWatch, IAM, S3, API GateWay, Cognito, SageMaker, SNS, CloudFront, Route 53, Certificate Manager)
+ Security(Iot Core, IAM, Cognito, CloudWatch)
  Dependency management(npm, firebase)
  CI/CD(Cloud9, Gitlab)
 ```
@@ -168,18 +169,14 @@ etc
 ```sh
  MegaNT_SNS는 MegaNT(빌딩 내 거주자에게 쾌적함과 편안함을 제공함은 물론 BEMS가 스스로 생각하여 건물에너지를 절감하고 관리자에게 보다 쉽게 에너지 관리를 수행할 수 있도록 하여 건물에너지 절감효과를 극대화 하는 시스템)에서
  경보 발생 시 관리자가 지정한 메시지를 해당 대상에게 SMS/VMS/Email을 보내는 서비스 입니다.
- MegaNT
 ```
 
 - Technical Lead
 
 ```sh
-  React-Native(TypeScript, junit, Objective-C, Java,kotlin)
-  Redux pattern(redux-observable)
-  Cache(SQLite, Typeorm)
-  Security(Proguard, Rooting guard, RSA, AES)
-  Dependency managment(yarn, pods, gradle, python script,firebase)
-  CI/CD(Gitlab, Fastlane)
+  And(C#)
+  Dependency managment(bizppurio)
+  CI/CD(GitHub)
 ```
 
 - Participation
@@ -188,6 +185,14 @@ etc
   MSSQL Database에 사용자 정보 등록
   경보 발생 시 사용자 정보에 등록된 SMS/VMS/Email로 메시지 발신
 ```
+
+<div>
+<img src="./images/megant/megaimage1.png" width="150">
+<img src="./images/megant/megaimage2.png" width="150">
+<img src="./images/megant/megaimage3.png" width="150">
+<img src="./images/megant/megaimage4.png" width="150">
+<img src="./images/megant/megaimage5.png" width="150">
+</div>
 
 # Unity C# 프로젝트
 
