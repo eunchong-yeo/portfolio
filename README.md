@@ -54,7 +54,7 @@ etc
 <a href="https://drive.google.com/file/d/1zIMijCQN8DwJz0ceqqodX8rGUu0nsvhh/view?usp=share_link">
 <img src="./images/education/education2.png" width="450">
 </a>
-<a href="https://drive.google.com/file/d/1W1aT89mEQJTkw-jP0eXotNjXXKgthshF/view?usp=share_link">
+<a href="https://drive.google.com/file/d/1W1aT89mEQJTkw-jP0eXotNjXXKgthshF/view?usp=share_link">firebase
 <img src="./images/education/education3.png" width="450">
 </a>
 </div>
@@ -71,17 +71,17 @@ etc
 ```sh
  'CloudBEMS'는 다양한 제어와 관리 솔루션의 연계를 고려한 통합 운영을 통하여 건물 에너지 절감효과를 극대화 할 수 있는 솔루션 입니다.
  에너지 사용, 에너지 분석, 에너지 로직, 실시간 관리, 이력관리, 시스템 관리 기능 등으로 구성되어 있으며,
- 
  Web 기반의 솔루션으로 인터넷이 가능한 장소 어디에서나 접속 가능합니다.
 ```
 
 - Technical Lead
 
 ```sh
- AWS(IoT core, Kinesis, Lambda, DynamoDB, CloudWatch, IAM, S3, API GateWay, Cognito, SageMaker, SNS, CloudFront, Route 53, Certificate Manager)
- Security(Iot Core, IAM, Cognito, CloudWatch)
- Dependency management(npm, firebase)
+ Language(NodeJS)
+ Cloud(AWS)
+ Database(DynamoDB)
  CI/CD(Cloud9, Gitlab)
+ ETC(RESTful API, Firebase, WebSocket, Service Worker)
 ```
 
 - Participation
@@ -174,9 +174,9 @@ etc
 - Technical Lead
 
 ```sh
-  And(C#)
-  Dependency managment(bizppurio)
+  Language(C#)
   CI/CD(GitHub)
+  ETC(bizppurio API)
 ```
 
 - Participation
