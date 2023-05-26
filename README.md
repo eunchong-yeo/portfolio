@@ -1,11 +1,9 @@
 # 여은총
 
-안녕하세요 AWS Service 개발 3년차 경험이 있는 개발자 여은총 연구원입니다
+안녕하세요 AWS 개발 3년차 경험이 있는 개발자 여은총 연구원입니다
 제가 맡게된 임무를 책임감 있게 마무리하는 개발자가 되는것 열정을 잃지 않고 끈임없이 성장해 나가는
 그런 개발자가 되도록 노력하는것이 저의 방향이자 목표입니다.
 그렇기에 현실에 안주하지 않고 더 좋은 방향으로 성장해 나아가길 선호하는 편입니다.
-최근 수행한 회사업무에서 연구원 경력에 대리팀장을 도맡아 개발팀을 이끌어보았던 경력이 있고 협의,회의를 통해
-성공적으로 서비스를 운영할수 있도록 전체적인 진행을 총괄한 경험이 있습니다.
 
 # 경력
 
@@ -49,14 +47,14 @@ etc
 ```
 
 <div>
-<a href="https://github.com/nowonsang/portfolio/blob/main/images/education/education1_file.pdf">
-<img src="./images/education/education_1.png" width="450">
+<a href="https://drive.google.com/file/d/12wPGnot-Z-9qZj7HQGdOHQAZpDz-VjVV/view?usp=share_link">
+<img src="./images/education/education1.png" width="450">
 </a>
-<a href="https://github.com/nowonsang/portfolio/blob/main/images/education/education2_file.pdf">
-<img src="./images/education/education_2.png" width="450">
+<a href="https://drive.google.com/file/d/1zIMijCQN8DwJz0ceqqodX8rGUu0nsvhh/view?usp=share_link">
+<img src="./images/education/education2.png" width="450">
 </a>
-<a href="https://github.com/nowonsang/portfolio/blob/main/images/education/education3_file.pdf">
-<img src="./images/education/education_3.png" width="450">
+<a href="https://drive.google.com/file/d/1W1aT89mEQJTkw-jP0eXotNjXXKgthshF/view?usp=share_link">
+<img src="./images/education/education3.png" width="450">
 </a>
 </div>
 
@@ -187,32 +185,9 @@ etc
 - Participation
 
 ```sh
-  로그인/회원가입 개발
-  프로필 개발
-  강원마트 개발
-  음성/화상 서비스 개발 및 고도화(Jitsi-Meet Library and webRTC)
-  명함 모듈/카메라 모듈 개발 및 고도화
-  알림톡/노티카운트 개발
+  MSSQL Database에 사용자 정보 등록
+  경보 발생 시 사용자 정보에 등록된 SMS/VMS/Email로 메시지 발신
 ```
-
-<div>
-<img src="./images/nayana/nayana_image18.jpg" width="150">
-<img src="./images/nayana/nayana_image3.jpg" width="150">
-<img src="./images/nayana/nayana_image4.jpg" width="150">
-<img src="./images/nayana/nayana_image5.jpg" width="150">
-<img src="./images/nayana/nayana_image6.jpg" width="150">
-<img src="./images/nayana/nayana_image7.jpg" width="150">
-<img src="./images/nayana/nayana_image8.jpg" width="150">
-<img src="./images/nayana/nayana_image9.jpg" width="150">
-<img src="./images/nayana/nayana_image10.jpg" width="150">
-<img src="./images/nayana/nayana_image11.jpg" width="150">
-<img src="./images/nayana/nayana_image12.jpg" width="150">
-<img src="./images/nayana/nayana_image13.png" width="150">
-<img src="./images/nayana/nayana_image14.png" width="150">
-<img src="./images/nayana/nayana_image15.png" width="150">
-<img src="./images/nayana/nayana_image16.png" width="150">
-<img src="./images/nayana/nayana_image17.png" width="150">
-</div>
 
 # Unity C# 프로젝트
 
