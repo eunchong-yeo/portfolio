@@ -78,7 +78,7 @@ etc
 - Technical Lead
 
 ```sh
- Language(NodeJS)
+ Language(NodeJS, ReactJS)
  Cloud(AWS)
  Database(DynamoDB)
  CI/CD(Cloud9, Gitlab)
