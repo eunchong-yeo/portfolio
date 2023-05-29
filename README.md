@@ -81,7 +81,7 @@ etc
  Cloud(AWS)
  Database(DynamoDB)
  CI/CD(Cloud9, Gitlab)
- ETC(RESTful API, Firebase, WebSocket, Service Worker)
+ etc(RESTful API, Firebase, WebSocket, Service Worker)
 ```
 
 - Participation
@@ -176,7 +176,7 @@ etc
 ```sh
   Language(C#)
   CI/CD(GitHub)
-  ETC(bizppurio API)
+  etc(bizppurio API)
 ```
 
 - Participation
