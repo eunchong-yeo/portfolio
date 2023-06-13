@@ -22,7 +22,7 @@ Back-End
 - Serverless Platform
 
 Front-End
-- React
+- ReactJS
 - JavaScript
 
 Database
@@ -196,6 +196,32 @@ etc
 <img src="./images/megant/megaimage5.png" width="150">
 </div>
 
+# Web 프로젝트
+###  MegaNT_인증 서비스
+
+> 개발기간 : 2019.10 ~ 2020.01
+> (주)나라컨트롤 > SW연구팀(여은총 연구원)
+
+- Introduction
+
+```sh
+ MegaNT_인증 서비스는 MegaNT(빌딩 내 거주자에게 쾌적함과 편안함을 제공함은 물론 BEMS가 스스로 생각하여 건물에너지를 절감하고 관리자에게 보다 쉽게 에너지 관리를 수행할 수 있도록 하여 건물에너지 절감효과를 극대화 하는 시스템)에서
+ 현장 등록 시 필요한 인증 키를 발급 및 관리를 할 수 있는 서비스를 제공하는 직원용 웹 프로젝트입니다.
+```
+
+- Technical Lead
+
+```sh
+  Language(Html, CSS, Javascript, Java)
+  CI/CD(GitHub)
+```
+
+- Participation
+
+```sh
+  Http, CSS, Javascript, JQuery, Java를 사용하여 사용자 관리 웹 페이지 및 DLL 파일을 이용하여 인증키를 발급하는 서비스 제공
+  Mysql Database를 사용하여 사용자 정보 및 인증 키 등록
+```
 # Unity C# 프로젝트
 
 ### VR 화재 체험 플랫폼
@@ -236,7 +262,7 @@ etc
 
 ### 최종 학력
 ```sh
-  한림대학교(2013.03 ~ 2019.02)
+  한림대학교 컴퓨터공학과(2013.03 ~ 2019.02)
 ```
 
 ### 자격증
