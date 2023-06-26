@@ -42,6 +42,24 @@ etc
   보고서: 일일 보고서, 주간 보고서, 월간 보고서
 ```
 
+- People Management
+
+```sh
+  교육: AWS Serverless Platform 발표 , Push Notification 교육 , Service Worker 교육
+```
+
+<div>
+<a href="https://drive.google.com/file/d/12wPGnot-Z-9qZj7HQGdOHQAZpDz-VjVV/view?usp=share_link">
+<img src="./images/education/education1.png" width="450">
+</a>
+<a href="https://drive.google.com/file/d/1zIMijCQN8DwJz0ceqqodX8rGUu0nsvhh/view?usp=share_link">
+<img src="./images/education/education2.png" width="450">
+</a>
+<a href="https://drive.google.com/file/d/1W1aT89mEQJTkw-jP0eXotNjXXKgthshF/view?usp=share_link">
+<img src="./images/education/education3.png" width="450">
+</a>
+</div>
+
 # AWS 프로젝트
 
 ### CloudBEMS (SmartBuilding , SmartFarm , 입찰 분석, 메뉴얼 & 교육 자료 웹 앱)
@@ -76,26 +94,8 @@ etc
   RESTful API를 이용하여 웹 서비스 개발
   AWS와 Firebase를 적용하여 모바일팀과 SNS 서비스 개발
 ```
-- People Management
-
-```sh
-  교육: AWS Serverless Platform 발표 , Push Notification 교육 , Service Worker 교육
-```
-
-<div>
-<a href="https://drive.google.com/file/d/12wPGnot-Z-9qZj7HQGdOHQAZpDz-VjVV/view?usp=share_link">
-<img src="./images/education/education1.png" width="450">
-</a>
-<a href="https://drive.google.com/file/d/1zIMijCQN8DwJz0ceqqodX8rGUu0nsvhh/view?usp=share_link">
-<img src="./images/education/education2.png" width="450">
-</a>
-<a href="https://drive.google.com/file/d/1W1aT89mEQJTkw-jP0eXotNjXXKgthshF/view?usp=share_link">
-<img src="./images/education/education3.png" width="450">
-</a>
-</div>
 
 - Web Image
-
 <div>
 <img src="./images/cloudBEMS/naraimage1.png" width="150">
 <img src="./images/cloudBEMS/naraimage2.png" width="150">
