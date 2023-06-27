@@ -88,6 +88,7 @@ etc
 - Participation
 
 ```sh
+  SaaS 솔루션을 사용하여 고객에게 소프트웨어 서비스 제공
   AWS 환경에서 Serverless Platform 서버 빌드 및 배포
   AWS를 이용하여 SaaS 플랫폼 개발
   AWS NoSQL에서 DynamoDB를 데이터베이스로 사용
