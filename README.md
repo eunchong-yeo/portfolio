@@ -219,7 +219,7 @@ etc
 - Participation
 
 ```sh
-  Http, CSS, Javascript, JQuery, Java를 사용하여 사용자 관리 웹 페이지 및 DLL 파일을 이용하여 인증키를 발급하는 서비스 제공
+  Http, CSS, Javascript, JQuery, Java를 사용하여 현장, 사용자 관리 및 인증키 발급 서비스 제공
   Mysql Database를 사용하여 사용자 정보 및 인증 키 등록
 ```
 # Unity C# 프로젝트
