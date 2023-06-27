@@ -89,7 +89,7 @@ etc
 
 ```sh
   AWS 환경에서 Serverless Platform 서버 빌드 및 배포
-  AWS를 이용하여 SaaS 플랫폼 개발
+  # AWS를 이용하여 SaaS 플랫폼 개발
   AWS NoSQL에서 DynamoDB를 데이터베이스로 사용
   RESTful API를 이용하여 웹 서비스 개발
   AWS와 Firebase를 적용하여 모바일팀과 SNS 서비스 개발
