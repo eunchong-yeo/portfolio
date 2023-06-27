@@ -88,10 +88,11 @@ etc
 - Participation
 
 ```sh
-  AWS 환경에서 Serverless Platform 서버 빌드 및 배포
-  AWS를 이용하여 SaaS 플랫폼 개발
-  AWS NoSQL에서 DynamoDB를 데이터베이스로 사용
+  서버리스 및 SaaS 기반 아키텍처를 활용하여 애플리케이션 개발 및 구축
+  AWS의 Lambda, API Gateway, DynamoDB 등 서버리스 서비스를 사용하여 백엔드 로직 구현
+  SaaS 솔루션을 사용하여 고객에게 소프트웨어 서비스 제공
   RESTful API를 이용하여 웹 서비스 개발
+  클라우드 기반 아키텍처 설계 및 구현
   AWS와 Firebase를 적용하여 모바일팀과 SNS 서비스 개발
 ```
 
