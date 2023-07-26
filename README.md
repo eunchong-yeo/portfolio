@@ -177,7 +177,7 @@ etc
 - Technical Lead
 
 ```sh
-  Language(C#)
+  Language(C#, .NET 프레임워크)
   CI/CD(GitHub)
   etc(bizppurio API)
 ```
@@ -185,8 +185,9 @@ etc
 - Participation
 
 ```sh
-  MSSQL Database에 사용자 정보 등록
-  경보 발생 시 사용자 정보에 등록된 SMS/VMS/Email로 메시지 발신
+  프로젝트 유지보수를 통해 장애 발생률 감소
+  MSSQL 데이터베이스를 활용한 사용자 정보 관리
+  SMS/VMS/Email 발신을 위한 API 개발
 ```
 
 <div>
@@ -220,8 +221,10 @@ etc
 - Participation
 
 ```sh
-  Http, CSS, Javascript, JQuery, Java를 사용하여 현장, 사용자 관리 및 인증키 발급 서비스 제공
+  HTML, JavaScript, CSS, jQuery를 사용하여 웹 프론트엔드를 개발
   Mysql Database를 사용하여 사용자 정보 및 인증 키 등록
+  Java를 사용하여 백엔드 로직 구현
+  dll을 활용하여 인증키 생성 및 관리 기능 구현
 ```
 # Unity C# 프로젝트
 
