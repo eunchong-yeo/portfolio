@@ -17,6 +17,8 @@ AWS, NoSQL, Nodejs, Git 등의 기술을 사용하여 Serverless Platform 개발
 
 Back-End
 - NodeJS
+- Java
+- C#
 - AWS
 - RESTful API
 - Serverless Platform
@@ -64,7 +66,7 @@ etc
 
 ### CloudBEMS (SmartBuilding , SmartFarm , 입찰 분석, 메뉴얼 & 교육 자료 웹 앱)
 
-> 개발기간 : 2020.03.09 ~ 2022.10.21
+> 개발기간 : 2020.03 ~ 2022.10
 > (주)나라컨트롤 > SW연구팀(여은총 연구원)
 
 - Introduction
@@ -164,7 +166,7 @@ etc
 # C# 프로젝트
 ### MegaNT_SMS(MegaNT SMS Service)
 
-> 개발기간 : 2021.07 ~ 2021.08
+> 개발기간 : 2021.07 ~ 2021.10
 > (주)나라컨트롤 > SW연구팀(여은총 연구원)
 
 - Introduction
@@ -185,9 +187,9 @@ etc
 - Participation
 
 ```sh
-  프로젝트 유지보수를 통해 장애 발생률 감소
   MSSQL 데이터베이스를 활용한 사용자 정보 관리
   SMS/VMS/Email 발신을 위한 API 개발
+  프로젝트 유지보수 및 예외처리를 통해 장애 발생률 감소
 ```
 
 <div>
@@ -201,7 +203,7 @@ etc
 # Web 프로젝트
 ###  MegaNT_인증 서비스
 
-> 개발기간 : 2019.10 ~ 2020.01
+> 개발기간 : 2019.10 ~ 2020.02
 > (주)나라컨트롤 > SW연구팀(여은총 연구원)
 
 - Introduction
