@@ -64,7 +64,7 @@ etc
 
 # AWS 프로젝트
 
-### CloudBEMS (SmartBuilding , SmartFarm , 입찰 분석, 메뉴얼 & 교육 자료 웹 앱)
+### CloudBEMS (SmartBuilding , SmartFarm , AI 최적제어 솔루션, 입찰 분석, 메뉴얼 & 교육 자료 웹 앱)
 
 > 개발기간 : 2020.03 ~ 2022.10<br>
 > (주)나라컨트롤 > SW연구팀(여은총 연구원)
@@ -90,12 +90,13 @@ etc
 - Participation
 
 ```sh
-  서버리스 및 SaaS 기반 아키텍처를 활용하여 애플리케이션 개발 및 구축
-  AWS의 Lambda, API Gateway, DynamoDB 등 서버리스 서비스를 사용하여 백엔드 로직 구현
-  SaaS 솔루션을 사용하여 고객에게 소프트웨어 서비스 제공
-  RESTful API를 이용하여 웹 서비스 개발
-  클라우드 기반 아키텍처 설계 및 구현
-  AWS와 Firebase를 적용하여 모바일팀과 SNS 서비스 개발
+서버리스 및 SaaS 기반 아키텍처를 활용하여 애플리케이션 개발 및 구축
+AWS의 Lambda, API Gateway, DynamoDB 등 서버리스 서비스를 사용하여 백엔드 로직 구현
+SaaS 솔루션을 사용하여 고객에게 소프트웨어 서비스 제공
+RESTful API를 이용하여 웹 서비스 개발
+클라우드 기반 아키텍처 설계 및 구현
+AI 개발자와 협업하여 스마트 빌딩 및 스마트 팜의 AI 최적제어 솔루션을 개발
+AWS와 Firebase를 적용하여 모바일팀과 SNS 경보 서비스 개발
 ```
 
 - Web Image
