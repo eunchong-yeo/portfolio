@@ -250,7 +250,7 @@ MegaNT_CCTV 서비스는 MegaNT(빌딩 내 거주자에게 쾌적함과 편안�
 - Participation
 
 ```sh
-  HTML, JavaScript, CSS, jQuery를 사용한 웹 프론트엔드 오류 수정 및 유지 보수
+  HTML, JavaScript, CSS, jQuery를 사용한 웹 프론트엔드 개발 및 유지 보수
   Mysql Database를 사용하여 사용자 정보 및 인증 키 등록
   Java를 사용하여 백엔드 로직 구현
   dll을 활용하여 인증키 생성 및 관리 기능 구현
