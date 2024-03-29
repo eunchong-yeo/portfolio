@@ -93,7 +93,7 @@ etc
 서버리스 및 SaaS 기반 아키텍처를 활용하여 애플리케이션 개발 및 구축
 AWS의 Lambda, API Gateway, DynamoDB 등 서버리스 서비스를 사용하여 백엔드 로직 구현
 SaaS 솔루션을 사용하여 고객에게 소프트웨어 서비스 제공
-RESTful API를 이용하여 웹 서비스 개발
+Express.js를 사용하여 RESTful API 개발
 클라우드 기반 아키텍처 설계 및 구현
 AI 개발자와 협업하여 스마트 빌딩 및 스마트 팜의 AI 최적제어 솔루션 개발
 AWS와 Firebase를 적용하여 모바일팀과 SNS 경보 서비스 개발
