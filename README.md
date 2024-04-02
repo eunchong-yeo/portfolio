@@ -16,12 +16,13 @@ AWS, NoSQL, Nodejs, Git 등의 기술을 사용하여 Serverless Platform 개발
 # 보유 기술 
 
 Back-End
-- NodeJS
-- Java
-- C#
 - AWS
 - RESTful API
 - Serverless Platform
+- NodeJS
+- ExpressJS
+- Java
+- C#
 
 Front-End
 - ReactJS
