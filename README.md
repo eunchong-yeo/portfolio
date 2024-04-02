@@ -51,7 +51,7 @@ etc
 ```
 
 <div>
-<a href="https://drive.google.com/file/d/12wPGnot-Z-9qZj7HQGdOHQAZpDz-VjVV/view?usp=share_link">
+<a href="https://drive.google.com/file/d/1Tlljl5cFbp09OadrAsVjKdBjhf2oJcTW/view?usp=drive_link">
 <img src="./images/education/education1.png" width="450">
 </a>
 <a href="https://drive.google.com/file/d/1zIMijCQN8DwJz0ceqqodX8rGUu0nsvhh/view?usp=share_link">
